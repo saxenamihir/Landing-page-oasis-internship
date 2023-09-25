@@ -1,0 +1,117 @@
+.gradient-background{
+    background-color: coral;
+}
+
+.funky-background{
+    padding:60px 100px;
+    background-color:bisque;
+}
+
+.basic{
+    background-color: cornsilk;
+}
+
+#yo{
+    font-weight: bold;
+    font-size: 25px;;
+}
+
+#one{
+   font-size:60px;
+}
+
+#second h1{
+    padding:20px 0;
+    color:black;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+#a{
+    padding: 20px 0;
+}
+
+#freshproduce{
+  padding:20px 0;
+  font-weight: bold;
+}
+
+#fastdelievery{
+    padding:20px 0;
+    font-weight: bold;
+}
+
+#affordableprices{
+    padding:20px 0;
+    font-weight: bold;
+}
+
+#widevariety{
+    padding:20px 0;
+    font-weight: bold;
+}
+
+#customersupport{
+    padding:20px 0;
+    font-weight: bold;
+}
+
+#securepayments{
+    padding:20px 0;
+    font-weight: bold;
+}
+
+.text-secondary{
+    padding:20px 0;
+    font-size: 20px;
+}
+
+.fp{
+    padding: 10px 0;
+    font-size: 40px;
+    color:chocolate;
+}
+
+.fd{
+    padding: 10px 0;
+    font-size: 40px;
+    color:chocolate;
+}
+
+.ap{
+    padding: 10px 0;
+    font-size: 40px;
+    color:chocolate;
+}
+
+.wv{
+    padding: 10px 0;
+    font-size: 40px;
+    color:chocolate;
+}
+
+.cs{
+    padding: 10px 0;
+    font-size: 40px;
+    color:chocolate;
+}
+
+.sp{
+    padding: 10px 0;
+    font-size: 40px;
+    color:chocolate;
+}
+
+#para{
+    font-weight: bold;
+    padding: 30px;
+    color:chocolate;
+}
+
+#shop{
+    color:firebrick;
+}
+
+#shopping img{
+    border-radius: 20px;
+}
